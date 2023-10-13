@@ -1,0 +1,9 @@
+.fGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #F6F3F3;
+    margin-top: 50px;
+}

@@ -3,12 +3,13 @@
     flex-direction: row;
     gap: 50px;
     list-style: none;
-    font-size: 3rem;
+    font-size: 1.55rem;
     background-color: #F6F3F3;
     color: black;
     margin: 0;
-    padding: 0;
-    
+    padding: 10px;
+  justify-content: space-between;    
+  
     
  
 }
@@ -24,4 +25,8 @@ li{
   padding: 5px;
 }
 
+}
+
+body{
+  margin: 0px;
 }
