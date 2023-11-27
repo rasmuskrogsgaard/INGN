@@ -1,17 +1,14 @@
-.navStyle{
-    display: flex;
-    flex-direction: row;
-    gap: 50px;
-    list-style: none;
-    font-size: 1.55rem;
-    background-color: #F6F3F3;
-    color: black;
-    margin: 0;
-    padding: 10px;
-  justify-content: space-between;    
-  
-    
- 
+.navStyle {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  list-style: none;
+  font-size: 1.55rem;
+  background-color: #f6f3f3;
+  color: black;
+  margin: 0;
+  padding: 10px;
+  justify-content: space-between;
 }
 
 .navTitle{
@@ -25,8 +22,6 @@ li{
   padding: 5px;
 }
 
-}
-
-body{
+body {
   margin: 0px;
 }
